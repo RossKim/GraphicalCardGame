@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model
+END
+PlayingCardDeck.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model/PlayingCardDeck.h
+END
+Deck.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model/Deck.h
+END
+CardSetGame.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/CardSetGame.m
+END
+PlayingCardSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/PlayingCardSet.m
+END
+PlayingCardDeck.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model/PlayingCardDeck.m
+END
+PlayingCardSetDeck.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/PlayingCardSetDeck.h
+END
+Deck.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model/Deck.m
+END
+GameResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/GameResult.h
+END
+Card.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/Card.h
+END
+PlayingCardSetDeck.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/PlayingCardSetDeck.m
+END
+GameResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/GameResult.m
+END
+Card.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model/Card.m
+END
+PlayingCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ross-project/!svn/ver/11/trunk/Matchismo/Matchismo/Model/PlayingCard.h
+END
+CardMatchingGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ross-project/!svn/ver/15/trunk/Matchismo/Matchismo/Model/CardMatchingGame.h
+END
+PlayingCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ross-project/!svn/ver/15/trunk/Matchismo/Matchismo/Model/PlayingCard.m
+END
+CardMatchingGame.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ross-project/!svn/ver/15/trunk/Matchismo/Matchismo/Model/CardMatchingGame.m
+END
+CardSetGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/CardSetGame.h
+END
+PlayingCardSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ross-project/!svn/ver/18/trunk/Matchismo/Matchismo/Model/PlayingCardSet.h
+END
